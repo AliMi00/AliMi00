@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliMi00
-- 👀 I’m interested in Backe-End development and IoT devices
-- 🌱 I’m good with C++ and advanced algorithms 
+- 👀 I’m interested in Backe-End, data science and IoT devices development
+- 🌱 I’m good with C++ python and advanced algorithms 
 - 💞️ I’m looking to collaborate on difficult, challenging project related to AI or optimization of algorithms
 - 📫 How to reach me: alimobinidev@gmail.com
 
