@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AliMi00
-- 👀 I’m interested in Backe-End, FPGA and Embedded system and IoT devices development
+- 👀 I’m interested in FPGA, Low level programming, Embedded systems and IoT devices
 - 🌱 I’m good with C++ python VHDL and advanced algorithms 
 - 💞️ I’m looking to collaborate on difficult, challenging project related to Embedded system and optimization of systems
 - 📫 How to reach me: alimobinidev@gmail.com
